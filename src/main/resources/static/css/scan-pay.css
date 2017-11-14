@@ -1,0 +1,45 @@
+.list-block .item-input .plateno-select {
+	background-image: url(../images/select1.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	text-align:center;
+}
+
+.verification-image {
+	width: 100%;
+	margin-left:auto; 
+	margin-right:auto;
+	text-align:center;
+}
+
+.column-left {
+	font-size: 0.60rem;
+	text-align:center;
+}
+
+.column-center {
+	font-size: 0.60rem;
+	text-align:center;
+}
+
+.column-right {
+	font-size: 0.60rem;
+  	text-align:right;
+}
+
+.col-33 .active {
+	color: #2387e5;
+}
+
+.special-plate-no {
+  position: relative;
+  padding-left: 3.5rem;
+  overflow: hidden;
+  font-size: .7rem;
+  line-height: 1;
+  color: #6d6d72;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: #2387e5;
+}
